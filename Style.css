@@ -1,0 +1,16 @@
+h1, div, label, input, a {
+    text-align:center;
+    color: white;
+}
+
+body {
+    background-image:url("https://catherineasquithgallery.com/uploads/posts/2021-03/1614803892_138-p-fon-dlya-prezentatsii-fizika-183.jpg");
+}
+
+label:hover {
+    color: red
+}
+
+a:hover {
+    color: darkorchid;
+}
